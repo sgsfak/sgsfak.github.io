@@ -5,4 +5,9 @@ description: Stelios Sfakianakis' web site
 keywords: 
 ---
 
-## Under construction
+## Stelios Sfakianakis
+Senior Software Engineer, [Computational Medicine Lab, FORTH­-ICS](http://www.ics.forth.gr/cbml/)
+
+* [GitHub](https://github.com/sgsfak)
+* [LinkedIn](https://gr.linkedin.com/in/ssfak)
+* [Publications (Google Scholar)](https://goo.gl/7OLT0C)
