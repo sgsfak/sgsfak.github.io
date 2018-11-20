@@ -11,5 +11,5 @@ Senior Software Engineer, [Computational Medicine Lab, FORTH­-ICS](http://www.i
 [Full CV](CV.pdf)
 
 * [GitHub](https://github.com/sgsfak)
-* [LinkedIn](https://gr.linkedin.com/in/ssfak)
+* [LinkedIn](https://gr.linkedin.com/in/sgsfak)
 * [Publications (Google Scholar)](https://goo.gl/7OLT0C)
